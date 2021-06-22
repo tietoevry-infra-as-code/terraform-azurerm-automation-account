@@ -1,3 +1,5 @@
+> ## This repository is no longer maintained actively. Please visit https://github.com/kumarvna?tab=repositories for the latest updates.
+
 # Automation account Terraform module
 
 Azure Automation is a new service in Azure that allows you to automate Azure management tasks and to orchestrate actions across external systems from right within Azure. It is built on PowerShell Workflow to take advantage of the language’s many features.
